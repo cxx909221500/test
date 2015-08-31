@@ -4,3 +4,4 @@ Git had a mutable index called stage
 very love
 above any thing
 in dev
+fixed bug
